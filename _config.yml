@@ -1,11 +1,11 @@
 # Site settings
-title: Bowen's Blog
-SEOTitle: Bowen的博客 | Bowen's Blog
+title: Lumman's Blog
+SEOTitle: Lumman的博客 | Lumman's Blog
 header-img: img/banner.jpg
-email: 864409241@qq.com
+email: 550832921@qq.com
 description: "An undergraduate of Sun Yat-sen University."
-keyword: "Bowen Wu, Sun Yat-sen University, Software Engineering, Software Testing"
-url: "https://bowenwu1.github.io"              # your host, for absolute URL
+keyword: "Lumman Wu, Sun Yat-sen University, Software Engineering, Software Testing"
+url: "https://wulinman.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,7 +14,7 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 RSS: false
 # weibo_username:     huxpro
 # zhihu_username:     huxpro
-github_username:    bowenwu1
+github_username:    wulinman
 #twitter_username:  huxpro
 # facebook_username:  huxpro
 
@@ -68,7 +68,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Good at Markdown"
+sidebar-about-description: "Good at Nothing"
 sidebar-avatar: /img/avator.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
