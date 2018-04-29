@@ -1,0 +1,71 @@
+<diagram program="umletino" version="14.2"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>260</x><y>112</y><w>160</w><h>70</h></coordinates><panel_attributes>ETraveler
+--
+name
+email</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>540</x><y>402</y><w>130</w><h>70</h></coordinates><panel_attributes>EHotel
+--
+name
+address
+star level</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>240</x><y>562</y><w>210</w><h>90</h></coordinates><panel_attributes>EReservation
+--
+hotel name
+room type
+check in date
+check out date</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>540</x><y>552</y><w>130</w><h>70</h></coordinates><panel_attributes>ERoom
+--
+type
+price</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>250</x><y>422</y><w>170</w><h>70</h></coordinates><panel_attributes>MShoppingBasket
+--
+number of reservations</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>112</y><w>160</w><h>70</h></coordinates><panel_attributes>ECreditCard
+--
+type
+number
+security code</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>10</x><y>282</y><w>110</w><h>50</h></coordinates><panel_attributes>EPayment
+--
+price</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>330</x><y>342</y><w>100</w><h>100</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=*
+added to v</panel_attributes><additional_attributes>10;80;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>330</x><y>482</y><w>60</w><h>100</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=*
+has &gt;</panel_attributes><additional_attributes>10;10;10;80</additional_attributes></element><element><id>Relation</id><coordinates><x>440</x><y>432</y><w>120</w><h>210</h></coordinates><panel_attributes>lt=-
+m1=*
+m2=1
+has v</panel_attributes><additional_attributes>10;180;60;180;60;10;100;10</additional_attributes></element><element><id>Relation</id><coordinates><x>590</x><y>462</y><w>60</w><h>110</h></coordinates><panel_attributes>lt=-
+m1=*
+m2=1
+has v</panel_attributes><additional_attributes>10;90;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>554</x><y>113</y><w>130</w><h>70</h></coordinates><panel_attributes>MLocation
+--
+name
+hot</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>590</x><y>172</y><w>60</w><h>250</h></coordinates><panel_attributes>lt=-
+m1=*
+m2=1
+has v</panel_attributes><additional_attributes>10;230;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>410</x><y>132</y><w>160</w><h>50</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=1
+select &gt;</panel_attributes><additional_attributes>10;20;140;20</additional_attributes></element><element><id>UMLClass</id><coordinates><x>750</x><y>554</y><w>120</w><h>70</h></coordinates><panel_attributes>EState
+--
+date
+isAvaliable</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>760</x><y>74</y><w>100</w><h>30</h></coordinates><panel_attributes>MRegion</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>760</x><y>124</y><w>100</w><h>50</h></coordinates><panel_attributes>MCity
+--
+isCapital</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>760</x><y>194</y><w>100</w><h>30</h></coordinates><panel_attributes>MTown</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>670</x><y>144</y><w>110</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;90;10</additional_attributes></element><element><id>Relation</id><coordinates><x>710</x><y>84</y><w>70</w><h>80</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;60;10;10;50;10</additional_attributes></element><element><id>Relation</id><coordinates><x>710</x><y>134</y><w>70</w><h>100</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;80;50;80</additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>132</y><w>130</w><h>50</h></coordinates><panel_attributes>lt=-
+m1=*
+m2=1
+&lt; has</panel_attributes><additional_attributes>10;20;110;20</additional_attributes></element><element><id>Relation</id><coordinates><x>60</x><y>172</y><w>90</w><h>130</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=1
+paid by ^</panel_attributes><additional_attributes>10;110;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>660</x><y>572</y><w>110</w><h>50</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=1
+has &gt;</panel_attributes><additional_attributes>90;20;10;20</additional_attributes></element><element><id>UMLClass</id><coordinates><x>240</x><y>254</y><w>210</w><h>100</h></coordinates><panel_attributes>&lt;&lt;session&gt;&gt;
+MRequest
+--
+destination
+check in date
+check out date
+number of adults and children</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>330</x><y>172</y><w>80</w><h>100</h></coordinates><panel_attributes>lt=-
+m1=*
+m2=1
+create v</panel_attributes><additional_attributes>10;80;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>60</x><y>322</y><w>200</w><h>330</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=1
+&lt; paid by</panel_attributes><additional_attributes>180;300;10;300;10;10</additional_attributes></element></diagram>
