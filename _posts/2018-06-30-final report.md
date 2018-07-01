@@ -54,15 +54,41 @@ tags:
 
 #### 小程序前端
 
-![]()
+以下是[微信小程序前端的代码仓库](https://github.com/ChickenDinner8/Client-Customer/graphs/contributors)的commit截图 ，用的是微信小程序自带的架构，没有引入其他外面的架构，代码都是真实地付出在小程序的各种页面以及功能的实现。
 
-![]()
+其中我的个人commit情况用红色框框出：
+
+![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/wx1.png?raw=true)
+
+
+
+以下为个人分支Git截图，按时间顺序来：
+
+![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/wx-commit1.png?raw=true)
+
+![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/wx-commit2.png?raw=true)
+
+
 
 #### 团队github pages
 
-![]()
+以下为[团队github pages仓库](https://github.com/ChickenDinner8/ChickenDinner8.github.io/graphs/contributors)的commit截图，其中我的个人commit情况用红色框框出：
 
-![]()
+![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/document1.png?raw=true)
+
+![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/document2.png?raw=true)
+
+以下为个人分支Git截图，按时间顺序来：
+
+![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/d-commit1.png?raw=true)
+
+![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/d-commit2.png?raw=true)
+
+![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/d-commit3.png?raw=true)
+
+![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/d-commit4.png?raw=true)
+
+![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/d-commit5.png?raw=true)
 
 ## 自认为最得意/或有价值/或有苦劳的工作清单，含简短说明（一句话）
 
