@@ -28,26 +28,27 @@ tags:
 
 感谢 [RaymanNg](https://github.com/RaymanNg) 优秀的架构以及把控全局，感谢  [Bowenwu1](https://github.com/Bowenwu1) 提供的完美的API，大大提高了我们与后台对接的效率，感谢 [Llunnn](https://github.com/Llunnn) 提供的前端技术支持，总是不辞劳苦地为我们解决技术性难题。同时感谢小程序队友 [pomelogy](https://github.com/pomeloqy) [JocelynWSJ](https://github.com/JocelynWSJ) 对小程序业务的认真开发与完善。最后感谢商家端成员 [VitaYoung](https://github.com/VitaYoung)  Colaice 的全力开发。
 
+
+
 ## PSP 2.1统计表
 
 | PSP2.1                                | Personal Software Process Stages | Time(%) |
 | ------------------------------------- | -------------------------------- | ------- |
 | **Planning**                          | **计划**                         | **10**  |
-| Estimate                              | 估计这个任务需要多少时间         | 8       |
+| Estimate                              | 估计这个任务需要多少时间         | 10      |
 | **Development**                       | **开发**                         | **80**  |
-| Analysis                              | 需求分析（包括学习新技术）       | 35      |
-| Design                                | 生成设计文档                     | 15      |
+| Analysis                              | 需求分析（包括学习新技术）       | 20      |
+| Design                                | 生成设计文档                     | 10      |
 | Design review                         | 设计复审                         | 2       |
 | Coding Standard                       | 代码规范                         | 5       |
 | Design                                | 具体设计                         | 5       |
-| Coding                                | 具体编码                         | 40      |
+| Coding                                | 具体编码                         | 30      |
 | Code Review                           | 代码复审                         | 3       |
 | Test                                  | 测试                             | 5       |
 | **Reporting**                         | **报告**                         | **10**  |
 | Test Report                           | 测试报告                         | 3       |
 | Size Measurment                       | 计算工作量                       | 3       |
-| Postmortem & Process Improvement Plan | 事后总结                         | 5       |
-
+| Postmortem & Process Improvement Plan | 事后总结                         | 4       |
 
 
 ## 个人分支的GIT统计报告
@@ -89,6 +90,8 @@ tags:
 ![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/d-commit4.png?raw=true)
 
 ![](https://github.com/wulinman/wulinman.github.io/blob/master/img/in-post/final%20report/d-commit5.png?raw=true)
+
+
 
 ## 自认为最得意/或有价值/或有苦劳的工作清单，含简短说明（一句话）
 
