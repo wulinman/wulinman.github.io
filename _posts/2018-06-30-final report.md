@@ -43,7 +43,7 @@ tags:
 | Coding                                | 具体编码                         | 40      |
 | Code Review                           | 代码复审                         | 3       |
 | Test                                  | 测试                             | 5       |
-| **Reporting**                         | 报告****                         | **10**  |
+| **Reporting**                         | **报告**                         | **10**  |
 | Test Report                           | 测试报告                         | 3       |
 | Size Measurment                       | 计算工作量                       | 3       |
 | Postmortem & Process Improvement Plan | 事后总结                         | 5       |
